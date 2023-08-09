@@ -1,0 +1,1 @@
+Here we're going to describe how to secure your website traffic and here are the following: What is HTTPS, What are the two main elements that SSL is providing, HAProxy SSL termination on UBUNTU 16.04, ssl termination, Bash function.
